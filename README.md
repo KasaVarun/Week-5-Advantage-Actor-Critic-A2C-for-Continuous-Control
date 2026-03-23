@@ -1,5 +1,15 @@
 # Week 5: Advantage Actor-Critic (A2C) for Continuous Control
 
+## Team Members
+
+| Name |
+|------|
+| Varun Kasa |
+| Srinjana Nag |
+| Gaurav Dalal |
+
+---
+
 ## Assignment Overview
 
 This assignment extends the Advantage Actor-Critic (A2C) implementation from
